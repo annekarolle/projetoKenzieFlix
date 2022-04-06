@@ -64,12 +64,14 @@ img{
 .zoom-imagem img:hover{       
     -moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
-	transform: scale(1.1);    
+	transform: scale(1.1); 
+    
   }
-  
-figure:hover{
-    border: 1px solid white;    
+
+.container-imagem:hover{
+    border: 1px solid white; 
 }
+
 
 h3{
    color: white;
@@ -80,6 +82,7 @@ h3{
 
 #add-perfil:hover{
     background-color: rgba(255, 255, 255, 0.237);
+    
 }
 
 .container-logo img{
